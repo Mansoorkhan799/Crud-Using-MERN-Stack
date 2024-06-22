@@ -1,5 +1,5 @@
 # Crud-Using-MERN-Stack
-Performing CRUD operation using MERN Stack
+# Performing CRUD operation using MERN Stack
 Vite: Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects. It is particularly well-suited for projects using frameworks like React
 Download and extract the zip folder and open it in VS Code.
 Run the following commands in the Backend Directory Terminal:
